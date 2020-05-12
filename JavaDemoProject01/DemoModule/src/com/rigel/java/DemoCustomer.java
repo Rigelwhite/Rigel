@@ -14,6 +14,8 @@ public class DemoCustomer {
         System.out.println("Hello Word! 5");
         System.out.println("Hello Word! 7");
         System.out.println("Hello Word! 8");
+        System.out.println("Hello Word! 9");
+        System.out.println("Hello Word! 10");
 
 
     }
